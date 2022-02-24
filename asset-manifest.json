@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa7fb349.css",
+    "main.js": "/static/js/main.61ec282b.js",
+    "static/media/schoolBackgound.png": "/static/media/schoolBackgound.6dc9b5b4ae31144c4092.png",
+    "index.html": "/index.html",
+    "main.fa7fb349.css.map": "/static/css/main.fa7fb349.css.map",
+    "main.61ec282b.js.map": "/static/js/main.61ec282b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7fb349.css",
+    "static/js/main.61ec282b.js"
+  ]
+}
